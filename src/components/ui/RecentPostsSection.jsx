@@ -7,8 +7,7 @@ import '../../App.css';
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
-import FormatBoldIcon from '@mui/icons-material/FormatBold';
-import FormatItalicIcon from '@mui/icons-material/FormatItalic';
+
 import Divider from '@mui/material/Divider';
 const Item = styled(Paper)(({ theme }) => ({
     backgroundColor: theme.palette.mode === 'dark' ? '#1A2027' : '#fff',

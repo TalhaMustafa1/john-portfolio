@@ -12,7 +12,7 @@ h1,h2,h3,h4,h5,p{
     
 }
 .heroSection h2{
-    font-size: 55px;
+    
     font-weight: 700;
     text-align: left;
 }
@@ -29,4 +29,7 @@ h1,h2,h3,h4,h5,p{
 }
 .grid-item{
     box-shadow: none !important;
+}
+.third-section-featureWork{
+    margin-block: 100px;
 }

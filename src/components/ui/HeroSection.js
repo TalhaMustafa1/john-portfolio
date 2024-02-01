@@ -23,7 +23,7 @@ function HeroSection() {
         <Grid item md={6} xs={12}>
           <Item className="heroSection">
           <Box className="heroSection" display="flex" flexDirection="column" alignItems="flex-start" justifyContent={'flex-start'} gap={3}>
-      <h2 style={{ color: "#21243d" }} className='text-6xl'>
+      <h2 style={{ color: "#21243d" }} className='md:text-6xl text-2xl '>
         Hi, I am John, Creative Technologist
       </h2>
       <p className='text-red-200'>
